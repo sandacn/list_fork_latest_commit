@@ -1,0 +1,9 @@
+{
+    "name": "github_fork",
+    "require": {
+        "php": "^7.0",
+        "knplabs/github-api": "^2.1",
+        "php-http/guzzle6-adapter": "^1.1",
+        "monolog/monolog": "1.0.*"
+    }
+}
